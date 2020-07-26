@@ -1,0 +1,6 @@
+bella-tdsa==0.3.29
+jupyter
+mypy
+pylint
+black
+-e git://github.com/apmoore1/target-extraction.git@v0.0.3#egg=target-extraction

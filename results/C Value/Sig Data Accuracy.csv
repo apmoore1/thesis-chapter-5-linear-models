@@ -1,0 +1,421 @@
+,Best,Dataset,Model,Parameter,Sig Datasets
+0,False,Dong,Target Independent,1.0,4
+1,False,Dong,Target Independent,3.0517578125e-05,5
+2,False,Dong,Target Independent,0.0001220703125,5
+3,False,Dong,Target Independent,0.00048828125,5
+4,False,Dong,Target Independent,0.001953125,2
+5,True,Dong,Target Independent,0.0078125,0
+6,False,Dong,Target Independent,0.03125,0
+7,False,Dong,Target Independent,0.125,3
+8,False,Dong,Target Independent,0.5,4
+9,False,Dong,Target Independent,2.0,5
+10,False,Dong,Target Dependent Minus,1.0,5
+11,False,Dong,Target Dependent Minus,3.0517578125e-05,5
+12,False,Dong,Target Dependent Minus,0.0001220703125,5
+13,False,Dong,Target Dependent Minus,0.00048828125,5
+14,False,Dong,Target Dependent Minus,0.001953125,0
+15,True,Dong,Target Dependent Minus,0.0078125,0
+16,False,Dong,Target Dependent Minus,0.03125,0
+17,False,Dong,Target Dependent Minus,0.125,4
+18,False,Dong,Target Dependent Minus,0.5,5
+19,False,Dong,Target Dependent Minus,2.0,5
+20,False,Dong,Target Dependent,1.0,5
+21,False,Dong,Target Dependent,3.0517578125e-05,5
+22,False,Dong,Target Dependent,0.0001220703125,5
+23,False,Dong,Target Dependent,0.00048828125,5
+24,False,Dong,Target Dependent,0.001953125,0
+25,True,Dong,Target Dependent,0.0078125,0
+26,False,Dong,Target Dependent,0.03125,4
+27,False,Dong,Target Dependent,0.125,5
+28,False,Dong,Target Dependent,0.5,5
+29,False,Dong,Target Dependent,2.0,5
+30,False,Dong,Target Dependent Plus,1.0,5
+31,False,Dong,Target Dependent Plus,3.0517578125e-05,5
+32,False,Dong,Target Dependent Plus,0.0001220703125,5
+33,False,Dong,Target Dependent Plus,0.00048828125,1
+34,True,Dong,Target Dependent Plus,0.001953125,0
+35,False,Dong,Target Dependent Plus,0.0078125,1
+36,False,Dong,Target Dependent Plus,0.03125,5
+37,False,Dong,Target Dependent Plus,0.125,5
+38,False,Dong,Target Dependent Plus,0.5,5
+39,False,Dong,Target Dependent Plus,2.0,5
+40,False,Dong,TDParse Minus,1.0,5
+41,False,Dong,TDParse Minus,3.0517578125e-05,5
+42,False,Dong,TDParse Minus,0.0001220703125,5
+43,False,Dong,TDParse Minus,0.00048828125,5
+44,False,Dong,TDParse Minus,0.001953125,2
+45,True,Dong,TDParse Minus,0.0078125,0
+46,False,Dong,TDParse Minus,0.03125,0
+47,False,Dong,TDParse Minus,0.125,3
+48,False,Dong,TDParse Minus,0.5,5
+49,False,Dong,TDParse Minus,2.0,5
+50,False,Dong,TDParse,1.0,5
+51,False,Dong,TDParse,3.0517578125e-05,5
+52,False,Dong,TDParse,0.0001220703125,5
+53,False,Dong,TDParse,0.00048828125,5
+54,False,Dong,TDParse,0.001953125,0
+55,True,Dong,TDParse,0.0078125,0
+56,False,Dong,TDParse,0.03125,3
+57,False,Dong,TDParse,0.125,5
+58,False,Dong,TDParse,0.5,5
+59,False,Dong,TDParse,2.0,5
+60,False,Dong,TDParsePlus,1.0,5
+61,False,Dong,TDParsePlus,3.0517578125e-05,5
+62,False,Dong,TDParsePlus,0.0001220703125,5
+63,False,Dong,TDParsePlus,0.00048828125,0
+64,True,Dong,TDParsePlus,0.001953125,0
+65,False,Dong,TDParsePlus,0.0078125,1
+66,False,Dong,TDParsePlus,0.03125,5
+67,False,Dong,TDParsePlus,0.125,5
+68,False,Dong,TDParsePlus,0.5,5
+69,False,Dong,TDParsePlus,2.0,5
+70,False,Laptop,Target Independent,1.0,2
+71,False,Laptop,Target Independent,3.0517578125e-05,5
+72,False,Laptop,Target Independent,0.0001220703125,5
+73,False,Laptop,Target Independent,0.00048828125,3
+74,False,Laptop,Target Independent,0.001953125,1
+75,False,Laptop,Target Independent,0.0078125,0
+76,True,Laptop,Target Independent,0.03125,0
+77,False,Laptop,Target Independent,0.125,0
+78,False,Laptop,Target Independent,0.5,2
+79,False,Laptop,Target Independent,2.0,2
+80,False,Laptop,Target Dependent Minus,1.0,3
+81,False,Laptop,Target Dependent Minus,3.0517578125e-05,5
+82,False,Laptop,Target Dependent Minus,0.0001220703125,5
+83,False,Laptop,Target Dependent Minus,0.00048828125,4
+84,False,Laptop,Target Dependent Minus,0.001953125,0
+85,True,Laptop,Target Dependent Minus,0.0078125,0
+86,False,Laptop,Target Dependent Minus,0.03125,0
+87,False,Laptop,Target Dependent Minus,0.125,1
+88,False,Laptop,Target Dependent Minus,0.5,3
+89,False,Laptop,Target Dependent Minus,2.0,3
+90,False,Laptop,Target Dependent,1.0,1
+91,False,Laptop,Target Dependent,3.0517578125e-05,5
+92,False,Laptop,Target Dependent,0.0001220703125,5
+93,False,Laptop,Target Dependent,0.00048828125,1
+94,False,Laptop,Target Dependent,0.001953125,0
+95,True,Laptop,Target Dependent,0.0078125,0
+96,False,Laptop,Target Dependent,0.03125,0
+97,False,Laptop,Target Dependent,0.125,3
+98,False,Laptop,Target Dependent,0.5,3
+99,False,Laptop,Target Dependent,2.0,2
+100,False,Laptop,Target Dependent Plus,1.0,2
+101,False,Laptop,Target Dependent Plus,3.0517578125e-05,5
+102,False,Laptop,Target Dependent Plus,0.0001220703125,5
+103,False,Laptop,Target Dependent Plus,0.00048828125,0
+104,False,Laptop,Target Dependent Plus,0.001953125,0
+105,True,Laptop,Target Dependent Plus,0.0078125,0
+106,False,Laptop,Target Dependent Plus,0.03125,0
+107,False,Laptop,Target Dependent Plus,0.125,2
+108,False,Laptop,Target Dependent Plus,0.5,2
+109,False,Laptop,Target Dependent Plus,2.0,2
+110,False,Laptop,TDParse Minus,1.0,1
+111,False,Laptop,TDParse Minus,3.0517578125e-05,5
+112,False,Laptop,TDParse Minus,0.0001220703125,5
+113,False,Laptop,TDParse Minus,0.00048828125,4
+114,False,Laptop,TDParse Minus,0.001953125,1
+115,False,Laptop,TDParse Minus,0.0078125,0
+116,False,Laptop,TDParse Minus,0.03125,0
+117,True,Laptop,TDParse Minus,0.125,0
+118,False,Laptop,TDParse Minus,0.5,1
+119,False,Laptop,TDParse Minus,2.0,3
+120,False,Laptop,TDParse,1.0,2
+121,False,Laptop,TDParse,3.0517578125e-05,5
+122,False,Laptop,TDParse,0.0001220703125,5
+123,False,Laptop,TDParse,0.00048828125,2
+124,False,Laptop,TDParse,0.001953125,0
+125,True,Laptop,TDParse,0.0078125,0
+126,False,Laptop,TDParse,0.03125,0
+127,False,Laptop,TDParse,0.125,2
+128,False,Laptop,TDParse,0.5,2
+129,False,Laptop,TDParse,2.0,2
+130,False,Laptop,TDParsePlus,1.0,2
+131,False,Laptop,TDParsePlus,3.0517578125e-05,5
+132,False,Laptop,TDParsePlus,0.0001220703125,5
+133,False,Laptop,TDParsePlus,0.00048828125,0
+134,False,Laptop,TDParsePlus,0.001953125,0
+135,True,Laptop,TDParsePlus,0.0078125,0
+136,False,Laptop,TDParsePlus,0.03125,0
+137,False,Laptop,TDParsePlus,0.125,2
+138,False,Laptop,TDParsePlus,0.5,2
+139,False,Laptop,TDParsePlus,2.0,2
+140,False,Restaurant,Target Independent,1.0,2
+141,False,Restaurant,Target Independent,3.0517578125e-05,5
+142,False,Restaurant,Target Independent,0.0001220703125,5
+143,False,Restaurant,Target Independent,0.00048828125,5
+144,False,Restaurant,Target Independent,0.001953125,3
+145,False,Restaurant,Target Independent,0.0078125,0
+146,True,Restaurant,Target Independent,0.03125,0
+147,False,Restaurant,Target Independent,0.125,0
+148,False,Restaurant,Target Independent,0.5,2
+149,False,Restaurant,Target Independent,2.0,2
+150,False,Restaurant,Target Dependent Minus,1.0,5
+151,False,Restaurant,Target Dependent Minus,3.0517578125e-05,5
+152,False,Restaurant,Target Dependent Minus,0.0001220703125,5
+153,False,Restaurant,Target Dependent Minus,0.00048828125,5
+154,False,Restaurant,Target Dependent Minus,0.001953125,1
+155,True,Restaurant,Target Dependent Minus,0.0078125,0
+156,False,Restaurant,Target Dependent Minus,0.03125,1
+157,False,Restaurant,Target Dependent Minus,0.125,2
+158,False,Restaurant,Target Dependent Minus,0.5,5
+159,False,Restaurant,Target Dependent Minus,2.0,5
+160,False,Restaurant,Target Dependent,1.0,5
+161,False,Restaurant,Target Dependent,3.0517578125e-05,5
+162,False,Restaurant,Target Dependent,0.0001220703125,5
+163,False,Restaurant,Target Dependent,0.00048828125,5
+164,False,Restaurant,Target Dependent,0.001953125,0
+165,True,Restaurant,Target Dependent,0.0078125,0
+166,False,Restaurant,Target Dependent,0.03125,1
+167,False,Restaurant,Target Dependent,0.125,3
+168,False,Restaurant,Target Dependent,0.5,5
+169,False,Restaurant,Target Dependent,2.0,5
+170,False,Restaurant,Target Dependent Plus,1.0,5
+171,False,Restaurant,Target Dependent Plus,3.0517578125e-05,5
+172,False,Restaurant,Target Dependent Plus,0.0001220703125,5
+173,False,Restaurant,Target Dependent Plus,0.00048828125,3
+174,False,Restaurant,Target Dependent Plus,0.001953125,0
+175,True,Restaurant,Target Dependent Plus,0.0078125,0
+176,False,Restaurant,Target Dependent Plus,0.03125,1
+177,False,Restaurant,Target Dependent Plus,0.125,5
+178,False,Restaurant,Target Dependent Plus,0.5,5
+179,False,Restaurant,Target Dependent Plus,2.0,5
+180,False,Restaurant,TDParse Minus,1.0,3
+181,False,Restaurant,TDParse Minus,3.0517578125e-05,5
+182,False,Restaurant,TDParse Minus,0.0001220703125,5
+183,False,Restaurant,TDParse Minus,0.00048828125,5
+184,False,Restaurant,TDParse Minus,0.001953125,3
+185,False,Restaurant,TDParse Minus,0.0078125,0
+186,True,Restaurant,TDParse Minus,0.03125,0
+187,False,Restaurant,TDParse Minus,0.125,0
+188,False,Restaurant,TDParse Minus,0.5,1
+189,False,Restaurant,TDParse Minus,2.0,2
+190,False,Restaurant,TDParse,1.0,5
+191,False,Restaurant,TDParse,3.0517578125e-05,5
+192,False,Restaurant,TDParse,0.0001220703125,5
+193,False,Restaurant,TDParse,0.00048828125,5
+194,False,Restaurant,TDParse,0.001953125,0
+195,True,Restaurant,TDParse,0.0078125,0
+196,False,Restaurant,TDParse,0.03125,0
+197,False,Restaurant,TDParse,0.125,2
+198,False,Restaurant,TDParse,0.5,5
+199,False,Restaurant,TDParse,2.0,5
+200,False,Restaurant,TDParsePlus,1.0,5
+201,False,Restaurant,TDParsePlus,3.0517578125e-05,5
+202,False,Restaurant,TDParsePlus,0.0001220703125,5
+203,False,Restaurant,TDParsePlus,0.00048828125,1
+204,False,Restaurant,TDParsePlus,0.001953125,0
+205,True,Restaurant,TDParsePlus,0.0078125,0
+206,False,Restaurant,TDParsePlus,0.03125,1
+207,False,Restaurant,TDParsePlus,0.125,3
+208,False,Restaurant,TDParsePlus,0.5,5
+209,False,Restaurant,TDParsePlus,2.0,5
+210,False,Election,Target Independent,1.0,1
+211,False,Election,Target Independent,3.0517578125e-05,5
+212,False,Election,Target Independent,0.0001220703125,5
+213,False,Election,Target Independent,0.00048828125,5
+214,False,Election,Target Independent,0.001953125,1
+215,False,Election,Target Independent,0.0078125,0
+216,False,Election,Target Independent,0.03125,0
+217,False,Election,Target Independent,0.125,0
+218,True,Election,Target Independent,0.5,0
+219,False,Election,Target Independent,2.0,4
+220,False,Election,Target Dependent Minus,1.0,5
+221,False,Election,Target Dependent Minus,3.0517578125e-05,5
+222,False,Election,Target Dependent Minus,0.0001220703125,5
+223,False,Election,Target Dependent Minus,0.00048828125,5
+224,False,Election,Target Dependent Minus,0.001953125,0
+225,True,Election,Target Dependent Minus,0.0078125,0
+226,False,Election,Target Dependent Minus,0.03125,0
+227,False,Election,Target Dependent Minus,0.125,2
+228,False,Election,Target Dependent Minus,0.5,2
+229,False,Election,Target Dependent Minus,2.0,5
+230,False,Election,Target Dependent,1.0,5
+231,False,Election,Target Dependent,3.0517578125e-05,5
+232,False,Election,Target Dependent,0.0001220703125,5
+233,False,Election,Target Dependent,0.00048828125,5
+234,False,Election,Target Dependent,0.001953125,0
+235,True,Election,Target Dependent,0.0078125,0
+236,False,Election,Target Dependent,0.03125,0
+237,False,Election,Target Dependent,0.125,1
+238,False,Election,Target Dependent,0.5,5
+239,False,Election,Target Dependent,2.0,5
+240,False,Election,Target Dependent Plus,1.0,5
+241,False,Election,Target Dependent Plus,3.0517578125e-05,5
+242,False,Election,Target Dependent Plus,0.0001220703125,5
+243,False,Election,Target Dependent Plus,0.00048828125,3
+244,False,Election,Target Dependent Plus,0.001953125,0
+245,False,Election,Target Dependent Plus,0.0078125,0
+246,True,Election,Target Dependent Plus,0.03125,0
+247,False,Election,Target Dependent Plus,0.125,1
+248,False,Election,Target Dependent Plus,0.5,5
+249,False,Election,Target Dependent Plus,2.0,4
+250,False,Election,TDParse Minus,1.0,0
+251,False,Election,TDParse Minus,3.0517578125e-05,5
+252,False,Election,TDParse Minus,0.0001220703125,5
+253,False,Election,TDParse Minus,0.00048828125,5
+254,False,Election,TDParse Minus,0.001953125,1
+255,False,Election,TDParse Minus,0.0078125,0
+256,False,Election,TDParse Minus,0.03125,1
+257,True,Election,TDParse Minus,0.125,0
+258,False,Election,TDParse Minus,0.5,1
+259,False,Election,TDParse Minus,2.0,4
+260,False,Election,TDParse,1.0,4
+261,False,Election,TDParse,3.0517578125e-05,5
+262,False,Election,TDParse,0.0001220703125,5
+263,False,Election,TDParse,0.00048828125,3
+264,False,Election,TDParse,0.001953125,0
+265,True,Election,TDParse,0.0078125,0
+266,False,Election,TDParse,0.03125,0
+267,False,Election,TDParse,0.125,1
+268,False,Election,TDParse,0.5,5
+269,False,Election,TDParse,2.0,5
+270,False,Election,TDParsePlus,1.0,4
+271,False,Election,TDParsePlus,3.0517578125e-05,5
+272,False,Election,TDParsePlus,0.0001220703125,5
+273,False,Election,TDParsePlus,0.00048828125,3
+274,False,Election,TDParsePlus,0.001953125,0
+275,True,Election,TDParsePlus,0.0078125,0
+276,False,Election,TDParsePlus,0.03125,0
+277,False,Election,TDParsePlus,0.125,2
+278,False,Election,TDParsePlus,0.5,1
+279,False,Election,TDParsePlus,2.0,1
+280,False,Mitchell,Target Independent,1.0,4
+281,False,Mitchell,Target Independent,3.0517578125e-05,0
+282,False,Mitchell,Target Independent,0.0001220703125,0
+283,False,Mitchell,Target Independent,0.00048828125,0
+284,False,Mitchell,Target Independent,0.001953125,0
+285,True,Mitchell,Target Independent,0.0078125,0
+286,False,Mitchell,Target Independent,0.03125,1
+287,False,Mitchell,Target Independent,0.125,2
+288,False,Mitchell,Target Independent,0.5,3
+289,False,Mitchell,Target Independent,2.0,3
+290,False,Mitchell,Target Dependent Minus,1.0,1
+291,False,Mitchell,Target Dependent Minus,3.0517578125e-05,0
+292,False,Mitchell,Target Dependent Minus,0.0001220703125,0
+293,False,Mitchell,Target Dependent Minus,0.00048828125,0
+294,False,Mitchell,Target Dependent Minus,0.001953125,0
+295,True,Mitchell,Target Dependent Minus,0.0078125,0
+296,False,Mitchell,Target Dependent Minus,0.03125,0
+297,False,Mitchell,Target Dependent Minus,0.125,1
+298,False,Mitchell,Target Dependent Minus,0.5,1
+299,False,Mitchell,Target Dependent Minus,2.0,1
+300,False,Mitchell,Target Dependent,1.0,1
+301,False,Mitchell,Target Dependent,3.0517578125e-05,0
+302,False,Mitchell,Target Dependent,0.0001220703125,0
+303,False,Mitchell,Target Dependent,0.00048828125,0
+304,False,Mitchell,Target Dependent,0.001953125,0
+305,True,Mitchell,Target Dependent,0.0078125,0
+306,False,Mitchell,Target Dependent,0.03125,0
+307,False,Mitchell,Target Dependent,0.125,1
+308,False,Mitchell,Target Dependent,0.5,1
+309,False,Mitchell,Target Dependent,2.0,1
+310,False,Mitchell,Target Dependent Plus,1.0,1
+311,False,Mitchell,Target Dependent Plus,3.0517578125e-05,1
+312,False,Mitchell,Target Dependent Plus,0.0001220703125,1
+313,False,Mitchell,Target Dependent Plus,0.00048828125,0
+314,True,Mitchell,Target Dependent Plus,0.001953125,0
+315,False,Mitchell,Target Dependent Plus,0.0078125,0
+316,False,Mitchell,Target Dependent Plus,0.03125,1
+317,False,Mitchell,Target Dependent Plus,0.125,1
+318,False,Mitchell,Target Dependent Plus,0.5,1
+319,False,Mitchell,Target Dependent Plus,2.0,1
+320,False,Mitchell,TDParse Minus,1.0,2
+321,False,Mitchell,TDParse Minus,3.0517578125e-05,0
+322,False,Mitchell,TDParse Minus,0.0001220703125,0
+323,False,Mitchell,TDParse Minus,0.00048828125,0
+324,False,Mitchell,TDParse Minus,0.001953125,0
+325,False,Mitchell,TDParse Minus,0.0078125,0
+326,True,Mitchell,TDParse Minus,0.03125,0
+327,False,Mitchell,TDParse Minus,0.125,1
+328,False,Mitchell,TDParse Minus,0.5,2
+329,False,Mitchell,TDParse Minus,2.0,3
+330,False,Mitchell,TDParse,1.0,1
+331,False,Mitchell,TDParse,3.0517578125e-05,0
+332,False,Mitchell,TDParse,0.0001220703125,0
+333,False,Mitchell,TDParse,0.00048828125,0
+334,False,Mitchell,TDParse,0.001953125,0
+335,True,Mitchell,TDParse,0.0078125,0
+336,False,Mitchell,TDParse,0.03125,0
+337,False,Mitchell,TDParse,0.125,0
+338,False,Mitchell,TDParse,0.5,1
+339,False,Mitchell,TDParse,2.0,1
+340,False,Mitchell,TDParsePlus,1.0,1
+341,False,Mitchell,TDParsePlus,3.0517578125e-05,2
+342,False,Mitchell,TDParsePlus,0.0001220703125,2
+343,False,Mitchell,TDParsePlus,0.00048828125,0
+344,False,Mitchell,TDParsePlus,0.001953125,0
+345,True,Mitchell,TDParsePlus,0.0078125,0
+346,False,Mitchell,TDParsePlus,0.03125,0
+347,False,Mitchell,TDParsePlus,0.125,1
+348,False,Mitchell,TDParsePlus,0.5,1
+349,False,Mitchell,TDParsePlus,2.0,1
+350,False,YouTuBean,Target Independent,1.0,1
+351,False,YouTuBean,Target Independent,3.0517578125e-05,4
+352,False,YouTuBean,Target Independent,0.0001220703125,4
+353,False,YouTuBean,Target Independent,0.00048828125,4
+354,False,YouTuBean,Target Independent,0.001953125,2
+355,False,YouTuBean,Target Independent,0.0078125,0
+356,True,YouTuBean,Target Independent,0.03125,0
+357,False,YouTuBean,Target Independent,0.125,0
+358,False,YouTuBean,Target Independent,0.5,1
+359,False,YouTuBean,Target Independent,2.0,1
+360,False,YouTuBean,Target Dependent Minus,1.0,0
+361,False,YouTuBean,Target Dependent Minus,3.0517578125e-05,5
+362,False,YouTuBean,Target Dependent Minus,0.0001220703125,5
+363,False,YouTuBean,Target Dependent Minus,0.00048828125,2
+364,False,YouTuBean,Target Dependent Minus,0.001953125,0
+365,False,YouTuBean,Target Dependent Minus,0.0078125,0
+366,True,YouTuBean,Target Dependent Minus,0.03125,0
+367,False,YouTuBean,Target Dependent Minus,0.125,0
+368,False,YouTuBean,Target Dependent Minus,0.5,0
+369,False,YouTuBean,Target Dependent Minus,2.0,0
+370,False,YouTuBean,Target Dependent,1.0,0
+371,False,YouTuBean,Target Dependent,3.0517578125e-05,3
+372,False,YouTuBean,Target Dependent,0.0001220703125,4
+373,False,YouTuBean,Target Dependent,0.00048828125,0
+374,False,YouTuBean,Target Dependent,0.001953125,0
+375,False,YouTuBean,Target Dependent,0.0078125,1
+376,True,YouTuBean,Target Dependent,0.03125,0
+377,False,YouTuBean,Target Dependent,0.125,0
+378,False,YouTuBean,Target Dependent,0.5,0
+379,False,YouTuBean,Target Dependent,2.0,0
+380,False,YouTuBean,Target Dependent Plus,1.0,0
+381,False,YouTuBean,Target Dependent Plus,3.0517578125e-05,5
+382,False,YouTuBean,Target Dependent Plus,0.0001220703125,4
+383,False,YouTuBean,Target Dependent Plus,0.00048828125,0
+384,False,YouTuBean,Target Dependent Plus,0.001953125,0
+385,False,YouTuBean,Target Dependent Plus,0.0078125,0
+386,True,YouTuBean,Target Dependent Plus,0.03125,0
+387,False,YouTuBean,Target Dependent Plus,0.125,0
+388,False,YouTuBean,Target Dependent Plus,0.5,0
+389,False,YouTuBean,Target Dependent Plus,2.0,0
+390,False,YouTuBean,TDParse Minus,1.0,0
+391,False,YouTuBean,TDParse Minus,3.0517578125e-05,4
+392,False,YouTuBean,TDParse Minus,0.0001220703125,4
+393,False,YouTuBean,TDParse Minus,0.00048828125,4
+394,False,YouTuBean,TDParse Minus,0.001953125,1
+395,False,YouTuBean,TDParse Minus,0.0078125,0
+396,True,YouTuBean,TDParse Minus,0.03125,0
+397,False,YouTuBean,TDParse Minus,0.125,0
+398,False,YouTuBean,TDParse Minus,0.5,0
+399,False,YouTuBean,TDParse Minus,2.0,0
+400,False,YouTuBean,TDParse,1.0,0
+401,False,YouTuBean,TDParse,3.0517578125e-05,5
+402,False,YouTuBean,TDParse,0.0001220703125,5
+403,False,YouTuBean,TDParse,0.00048828125,1
+404,False,YouTuBean,TDParse,0.001953125,0
+405,False,YouTuBean,TDParse,0.0078125,0
+406,False,YouTuBean,TDParse,0.03125,0
+407,False,YouTuBean,TDParse,0.125,0
+408,False,YouTuBean,TDParse,0.5,0
+409,True,YouTuBean,TDParse,2.0,0
+410,False,YouTuBean,TDParsePlus,1.0,0
+411,False,YouTuBean,TDParsePlus,3.0517578125e-05,5
+412,False,YouTuBean,TDParsePlus,0.0001220703125,5
+413,False,YouTuBean,TDParsePlus,0.00048828125,1
+414,False,YouTuBean,TDParsePlus,0.001953125,0
+415,True,YouTuBean,TDParsePlus,0.0078125,0
+416,False,YouTuBean,TDParsePlus,0.03125,0
+417,False,YouTuBean,TDParsePlus,0.125,0
+418,False,YouTuBean,TDParsePlus,0.5,0
+419,False,YouTuBean,TDParsePlus,2.0,0

@@ -1,0 +1,85 @@
+,Best,Dataset,Model,Parameter,Sig Datasets
+0,False,Dong,Target Independent,,5
+1,True,Dong,Target Independent,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+2,False,Dong,Target Dependent Minus,,5
+3,True,Dong,Target Dependent Minus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+4,False,Dong,Target Dependent,,5
+5,True,Dong,Target Dependent,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+6,False,Dong,Target Dependent Plus,,5
+7,True,Dong,Target Dependent Plus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+8,False,Dong,TDParse Minus,,5
+9,True,Dong,TDParse Minus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+10,False,Dong,TDParse,,5
+11,True,Dong,TDParse,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+12,False,Dong,TDParsePlus,,5
+13,True,Dong,TDParsePlus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+14,False,Laptop,Target Independent,,5
+15,True,Laptop,Target Independent,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+16,False,Laptop,Target Dependent Minus,,5
+17,True,Laptop,Target Dependent Minus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+18,False,Laptop,Target Dependent,,5
+19,True,Laptop,Target Dependent,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+20,False,Laptop,Target Dependent Plus,,5
+21,True,Laptop,Target Dependent Plus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+22,False,Laptop,TDParse Minus,,5
+23,True,Laptop,TDParse Minus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+24,False,Laptop,TDParse,,5
+25,True,Laptop,TDParse,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+26,False,Laptop,TDParsePlus,,5
+27,True,Laptop,TDParsePlus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+28,False,Restaurant,Target Independent,,5
+29,True,Restaurant,Target Independent,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+30,False,Restaurant,Target Dependent Minus,,5
+31,True,Restaurant,Target Dependent Minus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+32,False,Restaurant,Target Dependent,,5
+33,True,Restaurant,Target Dependent,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+34,False,Restaurant,Target Dependent Plus,,5
+35,True,Restaurant,Target Dependent Plus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+36,False,Restaurant,TDParse Minus,,5
+37,True,Restaurant,TDParse Minus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+38,False,Restaurant,TDParse,,5
+39,True,Restaurant,TDParse,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+40,False,Restaurant,TDParsePlus,,5
+41,True,Restaurant,TDParsePlus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+42,False,Election,Target Independent,,5
+43,True,Election,Target Independent,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+44,False,Election,Target Dependent Minus,,5
+45,True,Election,Target Dependent Minus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+46,False,Election,Target Dependent,,5
+47,True,Election,Target Dependent,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+48,False,Election,Target Dependent Plus,,5
+49,True,Election,Target Dependent Plus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+50,False,Election,TDParse Minus,,5
+51,True,Election,TDParse Minus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+52,False,Election,TDParse,,5
+53,True,Election,TDParse,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+54,False,Election,TDParsePlus,,5
+55,True,Election,TDParsePlus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+56,False,Mitchell,Target Independent,,0
+57,True,Mitchell,Target Independent,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+58,False,Mitchell,Target Dependent Minus,,5
+59,True,Mitchell,Target Dependent Minus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+60,False,Mitchell,Target Dependent,,4
+61,True,Mitchell,Target Dependent,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+62,False,Mitchell,Target Dependent Plus,,4
+63,True,Mitchell,Target Dependent Plus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+64,False,Mitchell,TDParse Minus,,0
+65,True,Mitchell,TDParse Minus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+66,False,Mitchell,TDParse,,2
+67,True,Mitchell,TDParse,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+68,False,Mitchell,TDParsePlus,,5
+69,True,Mitchell,TDParsePlus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+70,False,YouTuBean,Target Independent,,5
+71,True,YouTuBean,Target Independent,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+72,False,YouTuBean,Target Dependent Minus,,5
+73,True,YouTuBean,Target Dependent Minus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+74,False,YouTuBean,Target Dependent,,5
+75,True,YouTuBean,Target Dependent,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+76,False,YouTuBean,Target Dependent Plus,,5
+77,True,YouTuBean,Target Dependent Plus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+78,False,YouTuBean,TDParse Minus,,4
+79,True,YouTuBean,TDParse Minus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+80,False,YouTuBean,TDParse,,5
+81,True,YouTuBean,TDParse,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
+82,False,YouTuBean,TDParsePlus,,5
+83,True,YouTuBean,TDParsePlus,"MinMaxScaler(copy=True, feature_range=(0, 1))",0
